@@ -1,4 +1,4 @@
-# Claim
+# Token Gated Content for Insurance Claims
 This is a demonstration of how token gating can aid in managing the chain of custody of documents. The Crash report is only accesible to the Claimant and Insurer. The Invoice artifact is accessibile to all three parties. 
 
 ## Artifact
